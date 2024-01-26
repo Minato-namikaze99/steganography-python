@@ -12,7 +12,6 @@ pip install pyautogui
 &
 `
 pip install tk
-
 `
 
 
